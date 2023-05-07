@@ -5,7 +5,7 @@
 Link: https://learn.microsoft.com/en-us/training/browse/?terms=md-102&resource_type=learning%20path
 
 
-# MD-102 ENDPOINT Conceitos para prova
+# MD-102 ENDPOINT (topicos da prova)
 
 Onde isso nos deixa em termos de novos tópicos que foram adicionados? Aqui está uma lista das novas adições, bem como alguns dos itens reformulados para maior clareza. Não é uma lista grande, o que é uma ótima notícia para aqueles que estão pensando em esperar pelo MD-102. Se houver algo importante que eu perdi, deixe-me saber nos comentários.
 
