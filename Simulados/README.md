@@ -3,6 +3,9 @@
 - Simulado GITHUB Officeal Microsoft
 - Link https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator/tree/master/Instructions/Labs
 
+- MD-101
+- Link Udemy: https://www.udemy.com/course/md-101-managing-modern-desktops-practice-tests-i/
+
 
 # MD-102 ENDPOINT (Aprendizagem)
 
