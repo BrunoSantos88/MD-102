@@ -25,4 +25,7 @@ Os departamentos de TI devem ser capazes de atender aos requisitos do usuário. 
 - Implantação: instalação de um sistema operacional, registro de dispositivos e implantação de aplicativos no dispositivo.
 - Operações: Garantir que os sistemas estejam funcionando corretamente e protegidos.
 - Suporte: Garantir que os usuários finais aprendam a usar seus sistemas e aplicativos e recebam o suporte de que precisam.
-- Atualizar e retirar: esta fase inclui a substituição de dispositivos, a desativação de hardware obsoleto ou o cancelamento do registro de um dispositivo da organização.
+- Atualizar e retirar: esta fase inclui a substituição de dispositivos, a desativação de hardware obsoleto ou o cancelamento do registro de um dispositivo da organização.</p>
+
+(Gerencimento)
+<img src="https://user-images.githubusercontent.com/91704169/236695343-3de6aa7b-d813-4d6b-96e0-57c851ff7dba.png" width="1000px" align="centter" alt="planos">
