@@ -24,3 +24,10 @@ Fortes habilidades técnicas de instalação, manutenção e solução de proble
 Forte compreensão de redes de computadores, segurança do cliente e conceitos de aplicativos.
 Experiência com Active Directory Domain Services.
 
+# Prova Conceito
+
+- Habilidades medidas
+- Implantar cliente Windows (25–30%)
+- Gerenciar identidade e conformidade (15–20%)
+- Gerenciar, manter e proteger dispositivos (40–45%)
+- Gerenciar aplicativos (10–15%)
