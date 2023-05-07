@@ -9,3 +9,17 @@ Até recentemente, o gerenciamento da infraestrutura tecnológica e dos PCs de u
 - Sempre atualizado. Acompanhar as ameaças de segurança emergentes e aumentar a produtividade do usuário requer alterar a frequência com que os aplicativos do Windows e do Microsoft 365 precisam ser atualizados. Com atualizações alinhadas, informações poderosas impulsionadas pela inteligência da nuvem e uma abordagem moderna de gerenciamento de endpoint com Enterprise Mobility + Security (EMS), agora há uma maneira melhor de manter os dispositivos atualizados sem a complexidade de manter uma infraestrutura local.
 - Segurança inteligente integrada. Os invasores estão se tornando mais sofisticados, portanto, o Microsoft 365 foi projetado pensando na segurança. A Microsoft criou muitos recursos de segurança novos e crescentes diretamente na plataforma Microsoft 365, incluindo Windows Hello, proteção avançada contra ameaças do Windows Defender (ATP), proteção de informações do Windows, proteção de identidade do Azure AD, acesso condicional e muito mais. Esses recursos de segurança desenvolvidos pelo Microsoft Intelligent Security Graph usam bilhões de sinais e melhoram constantemente os algoritmos de aprendizado de máquina. O Intelligent Security Graph fornece experiência humana para ajudá-lo a proteger os dados de sua empresa e responder a ataques sofisticados.
 - Informações proativas. Com telemetria avançada e inteligência em nuvem, você pode descobrir proativamente problemas de dispositivos e aplicativos antes que eles afetem os usuários finais. Você pode ter mais confiança ao aplicar atualizações do sistema operacional, encontrar problemas de segurança e muito mais. A fusão entre inteligência de máquina e experiência humana pode criar uma parceria única e poderosa.
+
+
+# Examine o modelo de ciclo de vida do desktop corporativo
+
+- Os departamentos de TI devem ser capazes de atender aos requisitos do usuário. As tecnologias devem ser flexíveis e capazes de suportar um ambiente onde os estilos de trabalho mudam rapidamente em diferentes dispositivos e locais. Além disso, as empresas geralmente esperam que os departamentos de TI façam mais para melhorar a eficiência dos negócios com menos recursos. Um ciclo de vida do dispositivo estabelecido garante que as organizações tenham as tecnologias certas para que os usuários permaneçam produtivos. O ciclo de vida também garante que, quando os dispositivos atingirem o fim de sua vida útil, eles não se tornem um passivo. No ambiente atual, onde os usuários usam dispositivos pessoais com frequência, eles também se tornam parte desse ciclo de vida.
+
+# As organizações gerenciam constantemente as diferentes fases do ciclo de vida do desktop corporativo. Essas fases incluem:
+
+- Planejamento: Elaboração definindo uma estratégia de gestão do sistema.
+- Compras: processamento de requisições e, em seguida, obtenção de aprovação de faturas para pagamento.
+- Implantação: instalação de um sistema operacional, registro de dispositivos e implantação de aplicativos no dispositivo.
+- Operações: Garantir que os sistemas estejam funcionando corretamente e protegidos.
+- Suporte: Garantir que os usuários finais aprendam a usar seus sistemas e aplicativos e recebam o suporte de que precisam.
+- Atualizar e retirar: esta fase inclui a substituição de dispositivos, a desativação de hardware obsoleto ou o cancelamento do registro de um dispositivo da organização.
