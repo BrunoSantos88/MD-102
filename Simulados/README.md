@@ -1,4 +1,10 @@
 # MD-102 ENDPOINT
+ 
+- Simulado GITHUB Officeal Microsoft
+- Link https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator/tree/master/Instructions/Labs
+
+
+# MD-102 ENDPOINT (Aprendizagem)
 
 Onde isso nos deixa em termos de novos tópicos que foram adicionados? Aqui está uma lista das novas adições, bem como alguns dos itens reformulados para maior clareza. Não é uma lista grande, o que é uma ótima notícia para aqueles que estão pensando em esperar pelo MD-102. Se houver algo importante que eu perdi, deixe-me saber nos comentários.
 
